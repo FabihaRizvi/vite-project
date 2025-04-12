@@ -1,4 +1,5 @@
 import './App.css'
+import Button from './components/Button'
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
      <p>
       Fabiha Rizvi
      </p>
+     <Button text="Done"/>
     </>
   )
 }
